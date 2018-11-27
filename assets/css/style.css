@@ -1,0 +1,12 @@
+body {
+    color: gray;
+    background-color: darkblue;
+    text-align: center;
+}
+
+#box {
+    background-color: black;
+    width: 960px;
+    height: 720px;
+    margin: auto;
+}
